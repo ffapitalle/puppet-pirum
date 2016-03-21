@@ -1,0 +1,14 @@
+{
+  "name": "avature-pirum",
+  "version": "0.0.3",
+  "author": "avature",
+  "summary": "The simple PEAR channel Server Management",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ffapitalle/puppet-pirum",
+  "project_page": "https://github.com/ffapitalle/puppet-pirum",
+  "issues_url": "https://github.com/ffapitalle/puppet-pirum/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
